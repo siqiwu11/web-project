@@ -4,6 +4,7 @@
 <! DOCTYPE html>
 <html>
 <head>
+<<<<<<< HEAD
  <title> our delivery page</title>
 </head>
 
@@ -12,3 +13,14 @@
 
 </body>
 </html>
+=======
+<<<<<<< HEAD
+
+<body>
+
+  <h1>Uni2Go</h1>
+</body>
+=======
+<style>
+>>>>>>> e3606fdc42b62e4052659623848caf59b48c61d7
+>>>>>>> 96d8200492c62ee3cb039b0af31ad7c9cf0720b8
