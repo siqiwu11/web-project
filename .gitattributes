@@ -2,6 +2,13 @@
 * text=auto
 
 <! DOCTYPE html>
-
+<html>
 <head>
-<style>
+ <title> our delivery page</title>
+</head>
+
+<body>
+ <h1>University of Bath delivery service</h1>
+
+</body>
+</html>
