@@ -126,32 +126,4 @@ text-align: center;
 }
 p {text-align: left;}
 =======
-<style>
-body {
-  font-family: helvetica, sans-serif;
-  max-width: 600px;
-}
-
-div {
-   height: 200px;
-   background-size: cover;
-   margin: 40px 0 0 0;
-   position: relative;
-   border-radius: 12px;
-}
-<<<<<<< HEAD
-
-
-p {
- color:rgba(255,255,255,1);
- background:rgba(0,0,0,1);
- padding:10px;
- text-align: justify;
- line-height: 28px;
- position: absolute;
- bottom: 0;
- margin: 0;
-}
->>>>>>> ec2698988200701f9a862a1f65ad0260fecc85bf
-=======
 >>>>>>> d0e0e636cd5e68ebb7be2aed4f08e1fab9356072
