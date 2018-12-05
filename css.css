@@ -12,8 +12,35 @@ body {
  align-items: center;
 
  text-align: center;
+
+ background-image: url(edge.jpg)
+ background-size: cover;
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
 }
 
 .hero h1 {
   font-size: 5em;
+
+  margin-top: 0;
+  margin-bottom: 0.5em;
+}
+
+.hero .btn {
+
+  delivery: block;
+  width: 200px;
+
+  padding: 1em;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+
+  color: black;
+  text-decoration: none;
+  font-size: 1.5em;
+
+  border: 3px solid black;
+  border-radius: 20px;
 }
