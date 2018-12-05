@@ -3,7 +3,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font: 12px Arial, Helvetica, sans-serif;
+	font: 32px Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #061C37;
 	background: #1E4297;
@@ -12,7 +12,7 @@ body {
 *
 {
   margin: 0 auto 0 auto;
- text-align:left;}
+ text-align:center;}
 
 #top
 {
@@ -148,7 +148,7 @@ div {
 }
 
 .first {
-  background: url(http://dash.ga.co/assets/firstcourse.jpg);
+  background:img src= fresh.jpg;
 }
 .second {
   background: url(http://dash.ga.co/assets/secondcourse.jpg);
