@@ -5,8 +5,8 @@ body {
 	text-align: left;
 	font: 32px Garamond, Garamond, sans-serif;
 	font-size: 13px;
-	color: #061C37;
-	background: #1E4297;
+	color: red;
+	background: red;
 	background-repeat:repeat-x;
 }
 
@@ -20,7 +20,7 @@ h1
 text-align:right;
 
 font-size:30px;
-color:#FFF;
+color:blue;
 left:550px;
 top:100px;
 }
@@ -30,7 +30,7 @@ h2
 {
 position:absolute;
 text-align:right;
-color:#E1E7F7;
+color:blue;
 left:550px;
 top:130px;
 }
@@ -75,14 +75,14 @@ clear:both;
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: #ffffff;
+	color: red;
 	font-weight: bold;
 	padding-top: 17px;
 	font-size: 15px;
 }
 
 .menu a:hover{
-	color:#BAD1F3;
+	color:red;
 	background: url(fresh.jpg) no-repeat;
 }
 
