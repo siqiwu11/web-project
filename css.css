@@ -1,6 +1,7 @@
 body {
   margin: 0;
   font-family: sans-serif;
+}
 
 .hero {
  width: 100vw;
@@ -10,4 +11,9 @@ body {
  justify-context: center;
  align-items: center;
 
+ text-align: center;
+}
+
+.hero h1 {
+  font-size: 5em;
 }
