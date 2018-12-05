@@ -61,7 +61,7 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font: 32px Garamond, Garamond, sans-serif;
+	font: 12px Arial, Helvetica, sans-serif;
 	font-size: 13px;
 	color: #061C37;
 	background: #1E4297;
@@ -70,7 +70,7 @@ body {
 
 {
   margin: 0 auto 0 auto;
- text-align:center;}
+ text-align:left;}
 
 #top
 {
@@ -83,7 +83,7 @@ body {
 #heading h1
 {
 	position:absolute;
-text-align:right;
+  text-align:right;
 
 font-size:30px;
 color:#FFF;
@@ -96,33 +96,31 @@ top:100px;
 {
 position:absolute;
 text-align:right;
+font-size: 20px;
 color:#E1E7F7;
 left:550px;
 top:130px;
 }
 
+#heading h3
+{
+position:absolute;
+text-align:right;
+font-size: 10px;
+color:#E1E7F7;
+left:550px;
+top:1300px;
+}
+
 #heading
 {
-background-image:url(fresh.jpg);
 background-repeat:no-repeat;
 width:900px;
 height:402px;
 }
 
-
-
-.lightblue
-{
-color:#B1C6FC
-
-}
-
-
-
-
 #menu
 {
-background-image:url(fresh.jpg);
 background-repeat:no-repeat;
 width:940px;
 height:69px;
@@ -139,8 +137,6 @@ padding-left:10px;
 padding-right:10px;
 padding-bottom:5px;
 }
-
-
 
 #menu ul {
 	list-style: none;
@@ -171,18 +167,23 @@ padding-bottom:5px;
 
 #menu a:hover{
 	color:#BAD1F3;
-	background: url(fresh.jpg) no-repeat;
 }
 
-#content p
-{
-
-}
-
-
-html, body {
+body {
 text-align: center;
 }
 p {text-align: left;}
 =======
->>>>>>> d0e0e636cd5e68ebb7be2aed4f08e1fab9356072
+<style>
+body {
+  font-family: helvetica, sans-serif;
+  max-width: 600px;
+}
+
+div {
+   height: 200px;
+   background-size: cover;
+   margin: 40px 0 0 0;
+   position: relative;
+   border-radius: 12px;
+}
