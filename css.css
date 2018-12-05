@@ -3,16 +3,16 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font: 12px Arial, Helvetica, sans-serif;
+	font: 32px garamond, garamond, sans-serif;
 	font-size: 13px;
 	color: #061C37;
 	background: #1E4297;
 	background-repeat:repeat-x;
 }
-*
+
 {
   margin: 0 auto 0 auto;
- text-align:left;}
+ text-align:center;}
 
 #top
 {
@@ -140,3 +140,19 @@ div {
    position: relative;
    border-radius: 12px;
 }
+<<<<<<< HEAD
+
+
+p {
+ color:rgba(255,255,255,1);
+ background:rgba(0,0,0,1);
+ padding:10px;
+ text-align: justify;
+ line-height: 28px;
+ position: absolute;
+ bottom: 0;
+ margin: 0;
+}
+>>>>>>> ec2698988200701f9a862a1f65ad0260fecc85bf
+=======
+>>>>>>> d0e0e636cd5e68ebb7be2aed4f08e1fab9356072
