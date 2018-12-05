@@ -45,7 +45,7 @@ top:130px;
 
 #heading
 {
-background-image:url(images/main.jpg);
+background-image:url(fresh.jpg);
 background-repeat:no-repeat;
 width:900px;
 height:402px;
@@ -64,7 +64,7 @@ color:#B1C6FC
 
 #menu
 {
-background-image:url(images/menu.png);
+background-image:url(fresh.jpg);
 background-repeat:no-repeat;
 width:940px;
 height:69px;
@@ -80,12 +80,6 @@ background-color:#FFF;
 padding-left:10px;
 padding-right:10px;
 padding-bottom:5px;
-}
-
-#footer
-{
-width:inherit;
-height:auto;
 }
 
 
@@ -119,7 +113,7 @@ height:auto;
 
 #menu a:hover{
 	color:#BAD1F3;
-	background: url(images/menuhov.jpg) no-repeat;
+	background: url(fresh.jpg) no-repeat;
 }
 
 #content p
@@ -146,6 +140,7 @@ div {
    position: relative;
    border-radius: 12px;
 }
+<<<<<<< HEAD
 
 
 p {
@@ -159,3 +154,5 @@ p {
  margin: 0;
 }
 >>>>>>> ec2698988200701f9a862a1f65ad0260fecc85bf
+=======
+>>>>>>> d0e0e636cd5e68ebb7be2aed4f08e1fab9356072
