@@ -3,17 +3,17 @@ body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font: 32px Garamond, Garamond, sans-serif;
-	font-size: 13px;
-	color: red;
-	background: 	 #cce7ff;
+	font: Garamond, Garamond, sans-serif;
+	font-size: 32px;
+	color: black;
+	background:#cce7ff;
 }
 
 h1 {
 	position:absolute;
 text-align:right;
 
-font-size:30px;
+font-size:50px;
 color:blue;
 left:550px;
 top:100px;
@@ -24,7 +24,7 @@ h2
 {
 position:absolute;
 text-align:right;
-color:blue;
+color: #0088ff;
 left:550px;
 top:130px;
 }
@@ -76,7 +76,11 @@ clear:both;
 }
 
 .menu a:hover{
+<<<<<<< HEAD
 	color:0040ff;
+=======
+	color:black;
+>>>>>>> 656f8ed0906c75f581ece765da44892107f78c40
 	background: url(fresh.jpg) no-repeat;
 }
 
