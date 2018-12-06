@@ -5,7 +5,7 @@ body {
 	text-align: left;
 	font: 32px Garamond, Garamond, sans-serif;
 	font-size: 13px;
-	color: red;
+	color: black;
 	background: 	 #cce7ff;
 }
 
@@ -24,7 +24,7 @@ h2
 {
 position:absolute;
 text-align:right;
-color:blue;
+color: #0088ff;
 left:550px;
 top:130px;
 }
@@ -69,14 +69,14 @@ clear:both;
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: red;
+	color: black;
 	font-weight: bold;
 	padding-top: 17px;
 	font-size: 15px;
 }
 
 .menu a:hover{
-	color:red;
+	color:black;
 	background: url(fresh.jpg) no-repeat;
 }
 
