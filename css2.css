@@ -42,7 +42,7 @@ left:550px;
 top:130px;
 }
 
-.top
+#top
 {
 background-image:url(fresh.jpg);
 background-repeat:no-repeat;
@@ -50,7 +50,7 @@ width:900px;
 height:402px;
 }
 
-.menu
+#menu
 {
 background-image:url(fresh.jpg);
 background-repeat:no-repeat;
@@ -61,21 +61,21 @@ clear:both;
 }
 
 
-.menu ul {
+#menu ul {
 	list-style: none;
 	padding: 0px;
 	margin-left:auto;
 	width:900px;
 }
 
-.menu li {
+#menu li {
 	list-style: none;
 	padding: 0px;
 	display: inline;
 
 }
 
-.menu a {
+#menu a {
 	float: left;
 	width: 150px;
 	height: 40px;
@@ -88,14 +88,8 @@ clear:both;
 	font-size: 15px;
 }
 
-.menu a:hover{
+#menu a:hover{
 	color:0040ff;
-<<<<<<< HEAD
-=======
-=======
-	color:black;
-
->>>>>>> 763529b26b8f8ba51c9cb162a6e59a2199797aae
 	background: url(fresh.jpg) no-repeat;
 }
 
