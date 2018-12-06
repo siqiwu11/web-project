@@ -3,17 +3,17 @@ body {
 	margin: 0;
 	padding: 0;
 	top: 150px;
-	text-align: left;
+	text-align: center;
 	font: 32px Garamond, Garamond, sans-serif;
 	font-size: 13px;
 	color: #061C37;
-	background: white;
+	background: #cce7ff;
 	background-repeat:repeat-x;
 }
 *
 {
   margin: 0 auto 0 auto;
- text-align:left;}
+ text-align:center;}
 
 img{
 	width: 100%
@@ -41,8 +41,8 @@ top:100px;
 h2
 {
 position:absolute;
-text-align:left;
-color:black;
+text-align:center;
+color:white;
 left:550px;
 top:130px;
 }
@@ -102,7 +102,7 @@ clear:both;
 body {
 text-align: center;
 }
-p {text-align: left;}
+p {text-align: center;}
 
 
 
