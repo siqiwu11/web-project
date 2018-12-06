@@ -7,7 +7,7 @@ body {
 	font: 32px Garamond, Garamond, sans-serif;
 	font-size: 13px;
 	color: #061C37;
-	background: #cce7ff;
+	background: white;
 	background-repeat:repeat-x;
 }
 *
@@ -86,7 +86,7 @@ clear:both;
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: ;
+	color: black;
 	font-weight: bold;
 	padding-top: 17px;
 	font-size: 15px;
