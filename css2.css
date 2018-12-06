@@ -1,20 +1,32 @@
 
-
 body {
 	margin: 0;
 	padding: 0;
 	text-align: left;
-	font: Garamond, Garamond, sans-serif;
-	font-size: 32px;
-	color: black;
-	background:#cce7ff;
+	font: 32px Garamond, Garamond, sans-serif;
+	font-size: 13px;
+	color: #061C37;
+	background: #cce7ff;
+	background-repeat:repeat-x;
 }
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+
+ #top
+ {
+   display: block;
+   height:auto;
+   position: relative;
+   width: 940px;
+ }
 
 h1 {
 	position:absolute;
 text-align:right;
 
-font-size:32px;
+font-size:30px;
 color:blue;
 left:550px;
 top:100px;
@@ -25,7 +37,7 @@ h2
 {
 position:absolute;
 text-align:right;
-color: #0088ff;
+color:blue;
 left:550px;
 top:130px;
 }
@@ -77,11 +89,7 @@ clear:both;
 }
 
 .menu a:hover{
-<<<<<<< HEAD
 	color:0040ff;
-=======
-	color:black;
->>>>>>> 656f8ed0906c75f581ece765da44892107f78c40
 	background: url(fresh.jpg) no-repeat;
 }
 
