@@ -69,14 +69,14 @@ clear:both;
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: red;
+	color: black;
 	font-weight: bold;
 	padding-top: 17px;
 	font-size: 15px;
 }
 
 .menu a:hover{
-	color:red;
+	color:0040ff;
 	background: url(fresh.jpg) no-repeat;
 }
 
