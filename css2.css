@@ -90,6 +90,12 @@ clear:both;
 
 .menu a:hover{
 	color:0040ff;
+<<<<<<< HEAD
+=======
+=======
+	color:black;
+
+>>>>>>> 763529b26b8f8ba51c9cb162a6e59a2199797aae
 	background: url(fresh.jpg) no-repeat;
 }
 
