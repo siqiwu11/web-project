@@ -7,12 +7,12 @@ body {
 	font-size: 13px;
 	color: red;
 	background: red;
-	background-repeat:repeat-x;
 }
 
 h1 {
 	position:absolute;
 text-align:right;
+
 font-size:30px;
 color:blue;
 left:550px;
@@ -28,6 +28,58 @@ color:blue;
 left:550px;
 top:130px;
 }
+
+.top
+{
+background-image:url(fresh.jpg);
+background-repeat:no-repeat;
+width:900px;
+height:402px;
+}
+
+.menu
+{
+background-image:url(fresh.jpg);
+background-repeat:no-repeat;
+width:940px;
+height:69px;
+float:left;
+clear:both;
+}
+
+
+.menu ul {
+	list-style: none;
+	padding: 0px;
+	margin-left:auto;
+	width:900px;
+}
+
+.menu li {
+	list-style: none;
+	padding: 0px;
+	display: inline;
+
+}
+
+.menu a {
+	float: left;
+	width: 150px;
+	height: 40px;
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	color: red;
+	font-weight: bold;
+	padding-top: 17px;
+	font-size: 15px;
+}
+
+.menu a:hover{
+	color:red;
+	background: url(fresh.jpg) no-repeat;
+}
+
 
 body {
 text-align: center;
